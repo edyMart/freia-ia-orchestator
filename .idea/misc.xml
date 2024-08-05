@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="freia-ia-orchestrator" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="freia-ia-orchestrator" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (freia-ia-orchestator)" project-jdk-type="Python SDK" />
 </project>
