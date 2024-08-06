@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4be6bb7f-fe4b-49e1-b3d7-3a583c6872b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/middlewares/Oauth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/Billing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/Oauth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/Billing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/Oauth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/freia-ia-orchestrator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/freia-ia-orchestrator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/Services.py" beforeDir="false" afterPath="$PROJECT_DIR$/routes/Services.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/oauth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/xx.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/Agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/Agent.py" afterDir="false" />
-    </list>
+    <list default="true" id="4be6bb7f-fe4b-49e1-b3d7-3a583c6872b1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +81,7 @@
       <updated>1722446934382</updated>
       <workItem from="1722446985364" duration="7267000" />
       <workItem from="1722540884634" duration="8675000" />
-      <workItem from="1722881947207" duration="2754000" />
+      <workItem from="1722881947207" duration="3462000" />
     </task>
     <servers />
   </component>
